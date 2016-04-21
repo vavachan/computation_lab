@@ -1,3 +1,3 @@
 # computation_lab
-These are certain programs I did in my computational lab. This course was taken by Dr Anil Kumar.
+These are certain programs I did in my computational lab. Course instructor : Dr Anil Kumar.
 Wrote all of them is C++
